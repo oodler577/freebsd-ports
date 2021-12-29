@@ -83,6 +83,7 @@
 %%SITE_PERL%%/Test/Alien/Run.pm
 %%SITE_PERL%%/Test/Alien/Synthetic.pm
 %%SITE_PERL%%/alienfile.pm
+%%SITE_ARCH%%/auto/Alien/Build/.packlist
 %%PERL5_MAN3%%/Alien::Base.3.gz
 %%PERL5_MAN3%%/Alien::Base::Authoring.3.gz
 %%PERL5_MAN3%%/Alien::Base::FAQ.3.gz
